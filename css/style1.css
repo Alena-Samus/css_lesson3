@@ -19,14 +19,14 @@ p:first-letter{
 }
 
 #content{
-  width: 520px;
+  width: 570px;
   height: 300px;
   float: left;
   background-color: #FFF;
 }
 
 #nav{
-  width: 200px;
+  width: 150px;
   height: 300px;
   float: left;
   background-color: #e7e7e7;
@@ -40,6 +40,7 @@ p:first-letter{
 ul li{
   padding-top: 10px;
   padding-bottom: 10px;
+  padding-left: 1px;
   list-style: none;
   font-size: 12px;
 }
@@ -65,3 +66,17 @@ a:active{
   font-weight: bold;
   text-decoration: underline;
 }
+
+h1{
+  padding-top: 15px;
+  padding-left: 40px;
+}
+h3{
+  padding-left: 12px;
+  padding-top: 1px;
+  }
+  p{
+    padding-left: 11px;
+    padding-right: 9px;
+    padding-top: 1px;
+    }
